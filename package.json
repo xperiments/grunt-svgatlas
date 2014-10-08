@@ -1,0 +1,38 @@
+{
+  "name": "grunt-svgatlas",
+  "description": "A simple task to pack multiple svg file into one binary packed svg file.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/xperiments/grunt-svgatlas",
+  "author": {
+    "name": "Pedro Casaubon",
+    "email": "xperiments@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xperiments/grunt-svgatlas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xperiments/grunt-svgatlas/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/xperiments/grunt-svgatlas/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "readme": "# grunt-svgatlas",
+  "readmeFilename": "README.md",
+  "_id": "grunt-svgatlas@0.1.0",
+  "_shasum": "c95437f9d5be9b62bbe07f54453dbb6a2c10f7a9",
+  "_from": "/Users/xperiments/GIT/grunt-svgatlas",
+  "dependencies": {
+    "image-size": "^0.3.3",
+    "svg2png": "^1.1.0"
+  }
+}

@@ -4,4 +4,5 @@ tmp
 .idea
 .idea/scope_settings.xml
 resources/
+tasks/lib/SVGPacker.ts
 Gruntfile.js

@@ -1,4 +1,7 @@
 node_modules
 npm-debug.log
 tmp
-resources
+.idea
+.idea/scope_settings.xml
+resources/
+Gruntfile.js
